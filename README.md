@@ -1,12 +1,12 @@
-## Algorithmes (Algorithms)
+# Algorithmes (Algorithms)
 
 Implémentations de quelques algorithmes et structures de données pour le plaisir :D
 
-# Fini
+## Fini
 
-# À Faire
+## À Faire
 
-## Références
+# Références
 1. Algorithmes en Java (Robert Sedgewick)
 2. Algorithmique - Techniques fondamentales de programmation - Exemples en Python (Franck EBEL, Sébastien ROHAUT)
 
