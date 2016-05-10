@@ -1,16 +1,15 @@
 # Algorithmes (Algorithms)
 
-Implémentations de quelques algorithmes et structures de données pour le plaisir :D
-
 Algorithmes est une bibliothèque d'algorithmes et de structures de données mises en œuvre en Python.
 
 Le but principal de cette bibliothèque est d'être un outil éducatif. Vous ne devriez probablement pas utiliser dans votre production.
 
 Vous devez absolument vérifier les documents pour les détails de mise en œuvre, de la complexité et de plus information complémentaire.
 
+**Implémentations de quelques algorithmes et structures de données pour le plaisir :D**
+
 ## Fini
-- Partie II - Les structures de données
-- 
+
 
 ## À Faire
 
