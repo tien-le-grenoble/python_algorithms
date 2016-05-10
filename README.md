@@ -1,4 +1,4 @@
-# Algorithmes 
+# Algorithmes (Algorithms)
 
 Implémentations de quelques algorithmes et structures de données pour le plaisir :D
 
