@@ -10,8 +10,15 @@ Vous devez absolument vérifier les documents pour les détails de mise en œuvr
 
 ## Fini
 
-
 ## À Faire
+* Les algorithmes de tris
+```
+Le tri par création
+Le tri par sélection
+Le tri à bulles
+Le tri par insertion
+Le tri Shell
+```
 
 # Références
 1. Algorithmes en Java (Robert Sedgewick)
