@@ -1,4 +1,4 @@
-# Algorithmes (Algorithms)
+## Algorithmes (Algorithms)
 
 Implémentations de quelques algorithmes et structures de données pour le plaisir :D
 
@@ -6,19 +6,17 @@ Implémentations de quelques algorithmes et structures de données pour le plais
 
 # À Faire
 
-# Références
-* Livres
+## Références
 1. Algorithmes en Java (Robert Sedgewick)
 2. Algorithmique - Techniques fondamentales de programmation - Exemples en Python (Franck EBEL, Sébastien ROHAUT)
 
-* Github
-1. https://github.com/ChangeMyUsername/algorithms-sedgewick-python
-2. https://github.com/nryoung/algorithms
-3. https://github.com/prakhar1989/Algorithms
-4. https://github.com/laurentluce/python-algorithms
-5. https://github.com/mihassan/python_algorithms
-6. https://github.com/ztgu/sorting_algorithms_py
-7. https://github.com/bartdag/pymining
-8. https://github.com/aimacode/aima-python
-9. https://github.com/pydsa/pydsa
-10. https://github.com/ChangeMyUsername/high_performance_python
+3. https://github.com/ChangeMyUsername/algorithms-sedgewick-python
+4. https://github.com/nryoung/algorithms
+5. https://github.com/prakhar1989/Algorithms
+6. https://github.com/laurentluce/python-algorithms
+7. https://github.com/mihassan/python_algorithms
+8. https://github.com/ztgu/sorting_algorithms_py
+9. https://github.com/bartdag/pymining
+10. https://github.com/aimacode/aima-python
+11. https://github.com/pydsa/pydsa
+12. https://github.com/ChangeMyUsername/high_performance_python
