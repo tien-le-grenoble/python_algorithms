@@ -13,11 +13,10 @@ Vous devez absolument vérifier les documents pour les détails de mise en œuvr
 ## À Faire
 * Les algorithmes de tris
 ```
-Le tri par création
-Le tri par sélection
-Le tri à bulles
-Le tri par insertion
-Le tri Shell
+Le tri par sélection (selection_sort)
+Le tri à bulles (bubble_sort)
+Le tri par insertion (insertion_sort)
+Le tri Shell (shell_sort)
 ```
 
 # Références
