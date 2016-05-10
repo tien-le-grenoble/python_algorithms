@@ -7,6 +7,11 @@ Implémentations de quelques algorithmes et structures de données pour le plais
 # À Faire
 
 # Références
+* Livres
+1. Algorithmes en Java (Robert Sedgewick)
+2. Algorithmique - Techniques fondamentales de programmation - Exemples en Python (Franck EBEL, Sébastien ROHAUT)
+
+* Github
 1. https://github.com/ChangeMyUsername/algorithms-sedgewick-python
 2. https://github.com/nryoung/algorithms
 3. https://github.com/prakhar1989/Algorithms
