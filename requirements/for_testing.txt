@@ -1,21 +1,4 @@
-
-coverage==3.7.1
-flake8==2.4.1
-mccabe==0.3.1
-pep8==1.5.7
-pluggy==0.3.1
-py==1.4.30
-pyflakes==0.8.1
-tox==2.1.1
-virtualenv==13.1.2
-
-
-pytest==2.8.2
-cov-core==1.15.0
-pytest-cov==2.2.0
-
-apt-get install python3-pytest python3-pytest-cov python3-cov-core python3-coverage python3-flake8 python3-mccabe python3-pep8 python3-pep8-naming python3-pluggy python3-flake8 tox virtualenv
-
+apt-get install python3-pytest python3-pytest-cov python3-cov-core python3-coverage python3-flake8 python3-mccabe python3-pep8 python3-pep8-naming python3-pluggy python3-flake8 tox virtualenv python-flake8 pep8 python-mccabe python-setuptools
 
 python3-pep8-naming - check for PEP 8 naming conventions (flake8 plugin for Python3)
 python3-pep8 - vérificateur de convention d'écriture de code PEP 8 Python - python3
@@ -29,3 +12,4 @@ python3-pluggy - plugin and hook calling mechanisms for Python
 python3-flake8 - code checker using pep8 and pyflakes (Python 3)
 tox - virtualenv-based automation of test activities
 virtualenv - Créateur d'environnements virtuels Python
+python-flake8 - code checker using pep8 and pyflakes
