@@ -17,6 +17,9 @@ Le tri par sélection (selection_sort)
 Le tri à bulles (bubble_sort)
 Le tri par insertion (insertion_sort)
 Le tri Shell (shell_sort)
+merge_sort (top-down & bottom-up)
+quick_sort
+heap_sort
 ```
 
 # Références
