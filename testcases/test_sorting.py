@@ -16,7 +16,7 @@ Created on 10-05-2016
 import unittest
 import random
 
-from algorithms.sorting import selection_sort
+from algorithms.sorting import selection_sort, bubble_sort
 
 
 class SortingAlgorithmTestCase(unittest.TestCase):
@@ -31,6 +31,7 @@ class SortingAlgorithmTestCase(unittest.TestCase):
         random.shuffle(self.input)
 
         self.correct = list(range(10))
+        self.correct_inverse = list(reversed(range(10)))
 
 
 class TestSelectionSort(SortingAlgorithmTestCase):
@@ -42,6 +43,27 @@ class TestSelectionSort(SortingAlgorithmTestCase):
         # Default: True-ASC; False-DESC
         self.output = selection_sort.sort(self.input)
         self.assertEqual(self.correct, self.output)
+
+    def test_selection_sort_desc(self):
+        # Descending
+        self.output = selection_sort.sort(self.input, False)
+        self.assertEqual(self.correct_inverse, self.output)
+
+
+class TestBubbleSort(SortingAlgorithmTestCase):
+    """
+    Test Bubble sort on a small range from 0-9
+    """
+
+    def test_bubble_sort(self):
+        # Default: True-ASC; False-DESC
+        self.output = bubble_sort.sort(self.input)
+        self.assertEqual(self.correct, self.output)
+
+    def test_bubble_sort_desc(self):
+        # Descending
+        self.output = bubble_sort.sort(self.input, False)
+        self.assertEqual(self.correct_inverse, self.output)
 
 """
 if __name__ == "__main__":
