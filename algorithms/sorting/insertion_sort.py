@@ -34,6 +34,11 @@ est considérée plus loin.
 
 La complexité est alors Θ(n*n).
 
+Le pire performance de cas: O(n*n) comparaisons, swaps
+Meilleure performance de cas: O(n) comparaisons, O(1) swaps
+Performance moyenne de cas: O(n*n) comparaisons, swaps
+Pire complexité de l'espace de cas: О(n) au total, O(1) auxiliaire
+
 Ref:
 https://fr.wikipedia.org/wiki/Tri_par_insertion
 https://github.com/nryoung/algorithms/blob/master/algorithms/sorting/insertion_sort.py

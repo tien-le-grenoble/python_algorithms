@@ -24,6 +24,11 @@ tri communément enseignés, et il n'est donc guère utilisé en pratique.
 
 La complexité est alors Θ(n*n).
 
+Le pire performance de cas: O(n*n)
+Meilleure performance de cas: O(n)
+Performance moyenne de cas: O(n*n)
+Pire complexité de l'espace de cas: O(1) auxiliaire
+
 ref:
 https://fr.wikipedia.org/wiki/Tri_%C3%A0_bulles
 https://github.com/nryoung/algorithms/blob/master/algorithms/sorting/bubble_sort.py

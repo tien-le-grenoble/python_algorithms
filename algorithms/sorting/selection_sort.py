@@ -29,6 +29,11 @@ lors du passage précédent. Le nombre total de passages est donc de
 (n-1)+(n-2)+(n-3) et ainsi de suite soit une complexité de l'algorithme
 de n(n-1)/2 ce qui développé donne une complexité d'ordre O(n**2).
 
+Le pire performance de cas: O(n*n)
+Meilleure performance de cas: O(n*n)
+Performance moyenne de cas: O(n*n)
+Pire complexité de l'espace de cas: О(n) au total, O(1) auxiliaire
+
 ref:
 Algorithmique - Techniques fondamentales de programmation
 - Exemples en Python (Franck EBEL, Sébastien ROHAUT)

@@ -18,11 +18,18 @@ Le tri par insertion (insertion_sort)
 ## À Faire
 * Les algorithmes de tris
 ```
-Le tri Shell (shell_sort)
-merge_sort (top-down & bottom-up)
-quick_sort
-heap_sort
+Tri de Shell (shell_sort)
+Tri rapide (quick_sort)
+Tri par tas (heap_sort) (https://fr.wikipedia.org/wiki/Tri_par_tas)
+Tri par base (radix_sort)
+Tri par paquets (bucket_sort)
+Smoothsort (https://fr.wikipedia.org/wiki/Smoothsort)
+Tri fusion (merge_sort (top-down & bottom-up))
+Tri comptage (counting_sort)
+Tri stupide (bogo_sort)
 ```
+
+* Les
 
 # Références
 1. Algorithmes en Java (Robert Sedgewick)
