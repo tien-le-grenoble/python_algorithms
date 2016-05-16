@@ -16,7 +16,7 @@ Created on 10-05-2016
 import unittest
 import random
 
-from algorithms.sorting import selection_sort, bubble_sort
+from algorithms.sorting import selection_sort, bubble_sort, insertion_sort
 
 
 class SortingAlgorithmTestCase(unittest.TestCase):
@@ -63,6 +63,22 @@ class TestBubbleSort(SortingAlgorithmTestCase):
     def test_bubble_sort_desc(self):
         # Descending
         self.output = bubble_sort.sort(self.input, False)
+        self.assertEqual(self.correct_inverse, self.output)
+
+
+class TestInsertionSort(SortingAlgorithmTestCase):
+    """
+    Test Bubble sort on a small range from 0-9
+    """
+
+    def test_insertion_sort(self):
+        # Default: True-ASC; False-DESC
+        self.output = insertion_sort.sort(self.input)
+        self.assertEqual(self.correct, self.output)
+
+    def test_insertion_sort_desc(self):
+        # Descending
+        self.output = insertion_sort.sort(self.input, False)
         self.assertEqual(self.correct_inverse, self.output)
 
 """
