@@ -29,8 +29,6 @@ Tri comptage (counting_sort)
 Tri stupide (bogo_sort)
 ```
 
-* Les
-
 # Références
 1. Algorithmes en Java (Robert Sedgewick)
 2. Algorithmique - Techniques fondamentales de programmation - Exemples en Python (Franck EBEL, Sébastien ROHAUT)
