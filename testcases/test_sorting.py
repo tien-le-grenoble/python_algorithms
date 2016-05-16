@@ -39,6 +39,7 @@ class TestSelectionSort(SortingAlgorithmTestCase):
     """
 
     def test_selection_sort(self):
+        # Default: True-ASC; False-DESC
         self.output = selection_sort.sort(self.input)
         self.assertEqual(self.correct, self.output)
 

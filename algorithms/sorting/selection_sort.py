@@ -39,26 +39,7 @@ github.com/nryoung/algorithms/blob/master/algorithms/sorting/selection_sort.py
 """
 
 
-def sort(liste):
-    u"""
-    Trier une liste des nombres dans l' ordre croissant.
-
-    :param liste: une liste des nombres
-    :rtype: une liste après trier
-    """
-    for i in range(0, len(liste)):
-        i_min = i
-        for j in range(i + 1, len(liste)):
-            if liste[i_min] > liste[j]:
-                i_min = j
-
-        if i != i_min:
-            liste[i], liste[i_min] = liste[i_min], liste[i]
-
-    return liste
-
-
-def sort_list(liste, ordre_croissant=True):
+def sort(liste, ordre_croissant=True):
     u"""
     Trier une liste des nombres dans l' ordre croissant ou décroissant.
 
