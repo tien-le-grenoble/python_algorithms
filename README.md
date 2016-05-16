@@ -12,12 +12,12 @@ Vous devez absolument vérifier les documents pour les détails de mise en œuvr
 ```
 Le tri par sélection (selection_sort)
 Le tri à bulles (bubble_sort)
+Le tri par insertion (insertion_sort)
 ```
 
 ## À Faire
 * Les algorithmes de tris
 ```
-Le tri par insertion (insertion_sort)
 Le tri Shell (shell_sort)
 merge_sort (top-down & bottom-up)
 quick_sort
