@@ -29,6 +29,17 @@ Tri comptage (counting_sort)
 Tri stupide (bogo_sort)
 ```
 
+* Apprentissage automatique (Machine Learning)
+Réf:
+https://fr.wikipedia.org/wiki/Apprentissage_automatique
+https://en.wikipedia.org/wiki/List_of_machine_learning_concepts
+
+* Exploration de données (Data mining)
+Réf: https://fr.wikipedia.org/wiki/Exploration_de_donn%C3%A9es#Algorithmes
+
+* Big Data
+Réf: https://fr.wikipedia.org/wiki/Big_data
+
 # Références
 1. Algorithmes en Java (Robert Sedgewick)
 2. Algorithmique - Techniques fondamentales de programmation - Exemples en Python (Franck EBEL, Sébastien ROHAUT)
@@ -43,3 +54,7 @@ Tri stupide (bogo_sort)
 10. https://github.com/aimacode/aima-python
 11. https://github.com/pydsa/pydsa
 12. https://github.com/ChangeMyUsername/high_performance_python
+
+### Algorithme de tri
+https://fr.wikipedia.org/wiki/Algorithme_de_tri
+https://en.wikipedia.org/wiki/Sorting_algorithm
